@@ -1,0 +1,16 @@
+{
+  "name": "async-iterator-retry",
+  "version": "1.0.0",
+  "description": "Retry async iterators.",
+  "license": "Unlicense",
+  "repository": "valeriangalliat/async-iterator-retry",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "retry": "^0.12.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
